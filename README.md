@@ -1,2 +1,4 @@
 # gittest-1218
-git練習用
+
+git 練習用
+test
